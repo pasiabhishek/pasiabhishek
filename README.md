@@ -1,19 +1,25 @@
-
 <div align="center">
 
-# Hi 👋, I'm Pasi Abhishek
+# Hi 👋 I'm Pasi Abhishek
 
-### Full Stack MERN Developer • React & Angular Developer • UI/UX Enthusiast
+### Full Stack MERN Developer • Creative Technologist • React & Angular Developer
 
-Building modern, scalable web applications with clean architecture, intuitive user experiences, and purposeful design.
+Building modern web applications that combine technology, creativity, and great user experiences.
 
-<p align="center">
-  <a href="https://pasi-abhishek.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2ea44f?style=for-the-badge"/>
-  </a>
-  <a href="https://artist-hood.vercel.app">
-    <img src="https://img.shields.io/badge/🎨_ArtistHood-Live_Demo-2563EB?style=for-the-badge"/>
-  </a>
+<p>
+
+<a href="https://pasi-abhishek.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://artist-hood.vercel.app">
+<img src="https://img.shields.io/badge/ArtistHood-Live%20Demo-2EA44F?style=for-the-badge"/>
+</a>
+
+<a href="mailto:pasiabhishek.job@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
 </p>
 
 </div>
@@ -22,23 +28,23 @@ Building modern, scalable web applications with clean architecture, intuitive us
 
 # 💫 About Me
 
-I'm a **Full Stack MERN Developer** passionate about transforming ideas into real-world digital products.
+I'm **Pasi Abhishek**, a Full Stack MERN Developer from India passionate about building scalable, responsive, and user-focused web applications.
 
-I enjoy building responsive user interfaces, scalable backend systems, and intuitive web experiences that combine performance with thoughtful design.
+My work spans frontend engineering, backend development, database design, and UI/UX, with a strong focus on creating products that solve real-world problems.
 
-Currently, I'm focused on developing **ArtistHood**, a full-stack platform that connects artists with clients through professional portfolios and artist discovery.
+Beyond software development, I'm also known as **Master Aazam**—my creative identity as a writer, poet, musician, and filmmaker. My passion for storytelling influences how I design digital experiences, blending creativity with technology to build products that feel both functional and meaningful.
 
-Beyond software development, I'm also a creative storyteller under the name **Master Aazam**, where I explore poetry, music, filmmaking, and digital media.
+I enjoy learning new technologies, improving my engineering skills, and contributing to projects that make a real impact.
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🎨 Expanding **ArtistHood** into a production-ready artist booking platform
-- 🌱 Advancing my MERN Stack expertise
-- ⚡ Building scalable REST APIs
-- 🎯 Improving UI/UX design and frontend architecture
-- 📚 Learning modern software engineering practices
+- 🎨 ArtistHood — Full Stack MERN Artist Booking Platform
+- 🌐 Building scalable REST APIs
+- 📚 Improving backend architecture & system design
+- ⚡ Creating responsive and accessible web applications
+- 💡 Learning advanced software engineering practices
 
 ---
 
@@ -46,83 +52,50 @@ Beyond software development, I'm also a creative storyteller under the name **Ma
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp,mysql" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+---
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind,bootstrap,vite" />
-</p>
-
-**Also Experienced With**
-
-- jQuery
-- React Router
-- Responsive Web Design
-- Mobile-First Design
-- CSS Animations
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
 
 ---
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-**Backend Technologies**
-
-- Express Middleware
-- Socket.io
-- dotenv
-- Nodemon
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio)
 
 ---
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-- MongoDB Atlas
-- Mongoose
-
----
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,netlify,vercel,linux,bash" />
-</p>
-
-**Additional Tools**
-
-- GitHub Desktop
-- Canva
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
 
 ---
 
-# 🛠 Core Skills
+### Tools
 
-- Full Stack Web Development
-- REST API Development
-- Component-Based Architecture
-- Single Page Applications (SPA)
-- CRUD Applications
-- Database Design
-- Responsive UI Development
-- Mobile-First Design
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Error Handling
-- SEO Fundamentals
-- JSON & Fetch API
-- Google Maps API Integration
-- EmailJS Integration
-- Google Forms Integration
+Git • GitHub • VS Code • Visual Studio • Postman • npm • Git Bash • Linux • Windows • Netlify • Vercel • Canva
 
 ---
 
@@ -130,110 +103,72 @@ Beyond software development, I'm also a creative storyteller under the name **Ma
 
 ## 🎨 ArtistHood
 
-A full-stack MERN platform that enables artists to showcase their portfolios while allowing clients to discover, connect with, and hire creative professionals.
+A full-stack MERN artist booking platform where artists can showcase their work, connect with clients, and grow their professional presence.
 
-**Tech Stack**
+**Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Socket.io`
-
-🔗 **Live Demo**
-
-https://artist-hood.vercel.app/
+React • Node.js • Express • MongoDB • Tailwind CSS • Socket.io
 
 ---
 
 ## 🎵 Aazamatic Music Player
 
-A responsive web music player built with Vanilla JavaScript using the HTML5 Audio API.
-
-**Tech Stack**
-
-`HTML5` • `CSS3` • `JavaScript`
+A responsive browser-based music player built using Vanilla JavaScript and the HTML5 Audio API.
 
 ---
 
 ## 🌐 Aazamira
 
-A modern business website developed using Angular with responsive layouts and component-based architecture.
-
-**Tech Stack**
-
-`Angular` • `TypeScript` • `Bootstrap`
+A responsive Angular website developed with a component-based architecture and modern UI principles.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=pasiabhishek&theme=github_dark&show_icons=true&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pasiabhishek&show_icons=true&theme=github_dark&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pasiabhishek&theme=github-dark&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiabhishek&theme=github-dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiabhishek&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasiabhishek&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pasiabhishek&theme=algolia&no-frame=true&margin-w=8"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=pasiabhishek&theme=algolia&no-frame=true)
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/pasi-abhishek">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pasiabhishek.job@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/masteraazam">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://pasi-abhishek.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+- 🌐 Portfolio — https://pasi-abhishek.netlify.app
+- 💼 LinkedIn — https://linkedin.com/in/pasi-abhishek
+- 📧 Email — pasiabhishek.job@gmail.com
+- 📸 Instagram — @masteraazam
 
 ---
 
-# 📈 2026 Goals
+# 💡 Interests
 
-- Master Advanced MERN Development
-- Learn TypeScript
-- Build Production-Ready SaaS Applications
-- Contribute to Open Source
-- Strengthen System Design & Backend Architecture
-- Publish More Real-World Projects
-
----
-
-# 💭 Philosophy
-
-> **"Technology creates possibilities. Creativity transforms them into meaningful experiences."**
+- Full Stack Development
+- Software Engineering
+- UI/UX Design
+- Web Performance
+- Open Source
+- Problem Solving
+- Writing & Storytelling
+- Creative Technology
 
 ---
+
+> **"Technology gives ideas a platform. Creativity gives them a purpose."**
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile!
 
-If you enjoy my work, consider ⭐ starring the repositories you find interesting.
+If you enjoy my work, consider ⭐ starring a repository.
 
 ![](https://visitcount.itsvg.in/api?id=pasiabhishek&icon=5&color=6)
 
 </div>
-```
