@@ -141,7 +141,7 @@ A responsive Angular website developed with a component-based architecture and m
 
 # 🌐 Connect With Me
 
-- 🌐 Portfolio — https://pasi-abhishek.netlify.app
+- 🌐 Portfolio — https://aazamira.vercel.app/masteraazam.html
 - 💼 LinkedIn — https://linkedin.com/in/pasi-abhishek
 - 📧 Email — pasiabhishek.job@gmail.com
 - 📸 Instagram — @masteraazam
