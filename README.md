@@ -8,15 +8,15 @@ Building modern web applications that combine technology, creativity, and great 
 
 <p>
 
-<a href="https://pasi-abhishek.netlify.app">
+<a href="https://aazamira.vercel.app/masteraazam.html">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://artist-hood.vercel.app">
+<a href="https://artist-hood.vercel.">
 <img src="https://img.shields.io/badge/ArtistHood-Live%20Demo-2EA44F?style=for-the-badge"/>
 </a>
 
-<a href="mailto:pasiabhishek.job@gmail.com">
+<a href="mailto:pasiabhishek6070@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
 
