@@ -22,11 +22,32 @@
 
 ## 👨‍💻 About Me
 
-I'm **Pasi Abhishek**, a Full Stack Developer focused on building responsive, scalable and user-focused web applications.
+```js
+const pasi = {
+  name: "Pasi Abhishek",
+  creativeName: "Master Aazam",
 
-Also known as **Master Aazam**, I combine software engineering with writing, poetry and creative technology.
+  role: [
+    "Full Stack Developer",
+    "React Developer",
+    "Angular Developer",
+    "Creative Technologist"
+  ],
 
-> **Code builds the experience. Creativity gives it meaning.**
+  currentlyBuilding: "ArtistHood",
+
+  interests: [
+    "Software Engineering",
+    "Web Development",
+    "UI/UX",
+    "Writing",
+    "Poetry",
+    "Creative Technology"
+  ]
+};
+```
+
+> **Building with logic. Creating with imagination.**
 
 ---
 
