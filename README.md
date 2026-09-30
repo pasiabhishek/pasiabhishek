@@ -1,174 +1,142 @@
 <div align="center">
 
-# Hi 👋 I'm Pasi Abhishek
-
-### Full Stack MERN Developer • Creative Technologist • React & Angular Developer
-
-Building modern web applications that combine technology, creativity, and great user experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pasi+Abhishek+%F0%9F%91%8B;Full+Stack+MERN+Developer;React+%26+Angular+Developer;Creative+Technologist;Writer+%7C+Poet+%7C+Creator" />
 
 <p>
+  <strong>Building modern web applications where code meets creativity.</strong>
+</p>
 
 <a href="https://aazamira.vercel.app/masteraazam.html">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="https://artist-hood.vercel.">
-<img src="https://img.shields.io/badge/ArtistHood-Live%20Demo-2EA44F?style=for-the-badge"/>
+<a href="https://artist-hood.vercel.app">
+<img src="https://img.shields.io/badge/ArtistHood-2EA44F?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
-
 <a href="mailto:pasiabhishek6070@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-I'm **Pasi Abhishek**, a Full Stack MERN Developer from India passionate about building scalable, responsive, and user-focused web applications.
+I'm **Pasi Abhishek**, a Full Stack Developer focused on building responsive, scalable and user-focused web applications.
 
-My work spans frontend engineering, backend development, database design, and UI/UX, with a strong focus on creating products that solve real-world problems.
+Also known as **Master Aazam**, I combine software engineering with writing, poetry and creative technology.
 
-Beyond software development, I'm also known as **Master Aazam**—my creative identity as a writer, poet, musician, and filmmaker. My passion for storytelling influences how I design digital experiences, blending creativity with technology to build products that feel both functional and meaningful.
-
-I enjoy learning new technologies, improving my engineering skills, and contributing to projects that make a real impact.
+> **Code builds the experience. Creativity gives it meaning.**
 
 ---
 
-## 🚀 Currently Working On
+## ⚡ What I'm Building
 
-- 🎨 ArtistHood — Full Stack MERN Artist Booking Platform
-- 🌐 Building scalable REST APIs
-- 📚 Improving backend architecture & system design
-- ⚡ Creating responsive and accessible web applications
-- 💡 Learning advanced software engineering practices
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+🎨 **ArtistHood** — MERN platform connecting artists with opportunities
+🌐 **REST APIs & Backend Systems** — scalable server-side applications
+💻 **Modern Web Apps** — React, Angular & responsive UI
+🧠 **Software Engineering** — architecture, performance & problem solving
 
 ---
 
-### Frontend
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
-![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,angular,tailwind,vite,nodejs,express,mongodb,mysql,git,github,postman,vercel&perline=10" />
+
+</p>
 
 ---
 
-### Backend
+## 🚀 Featured Projects
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio)
+<table>
+<tr>
+<td width="50%">
 
----
+### 🎨 ArtistHood
 
-### Database
+Full-stack artist booking & social platform.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)
+**React • Node • Express • MongoDB • Socket.io**
 
----
+</td>
 
-### Tools
+<td width="50%">
 
-Git • GitHub • VS Code • Visual Studio • Postman • npm • Git Bash • Linux • Windows • Netlify • Vercel • Canva
+### 🎵 Aazamatic
 
----
+Browser-based music player built with Vanilla JS and HTML5 Audio API.
 
-# 🚀 Featured Projects
+**JavaScript • HTML • CSS**
 
-## 🎨 ArtistHood
+</td>
+</tr>
 
-A full-stack MERN artist booking platform where artists can showcase their work, connect with clients, and grow their professional presence.
+<tr>
+<td width="50%">
 
-**Stack**
+### 🌐 Aazamira
 
-React • Node.js • Express • MongoDB • Tailwind CSS • Socket.io
+Creative web platform built with Angular.
 
----
+**Angular • TypeScript • CSS**
 
-## 🎵 Aazamatic Music Player
+</td>
 
-A responsive browser-based music player built using Vanilla JavaScript and the HTML5 Audio API.
+<td width="50%">
 
----
+### 📦 More Projects
 
-## 🌐 Aazamira
+Explore my repositories to see experiments, APIs, web applications and creative projects.
 
-A responsive Angular website developed with a component-based architecture and modern UI principles.
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pasiabhishek&theme=github_dark&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pasiabhishek&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasiabhishek&layout=compact&theme=github_dark&hide_border=true)
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pasiabhishek&theme=algolia&no-frame=true)
-
----
-
-# 🌐 Connect With Me
-
-- 🌐 Portfolio — https://aazamira.vercel.app/masteraazam.html
-- 💼 LinkedIn — https://linkedin.com/in/pasi-abhishek
-- 📧 Email — pasiabhishek6070@gmail.com
-- 📸 Instagram — @masteraazam
-
----
-
-# 💡 Interests
-
-- Full Stack Development
-- Software Engineering
-- UI/UX Design
-- Web Performance
-- Open Source
-- Problem Solving
-- Writing & Storytelling
-- Creative Technology
-
----
-
-> **"Technology gives ideas a platform. Creativity gives them a purpose."**
+## 📊 GitHub
 
 <div align="center">
 
-### Thanks for visiting my profile!
+<img src="https://github-readme-stats.vercel.app/api?username=pasiabhishek&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
 
-If you enjoy my work, consider ⭐ starring a repository.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasiabhishek&layout=compact&theme=transparent&hide_border=true" height="165"/>
 
-![](https://visitcount.itsvg.in/api?id=pasiabhishek&icon=5&color=6)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiabhishek&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pasi-abhishek">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pasiabhishek">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://aazamira.vercel.app/masteraazam.html">
+<img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pasiabhishek&style=for-the-badge&color=8B5CF6"/>
+
+### ✨ Thanks for visiting!
 
 </div>
