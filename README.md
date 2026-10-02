@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         HERO                                  -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=PASI%20ABHISHEK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
